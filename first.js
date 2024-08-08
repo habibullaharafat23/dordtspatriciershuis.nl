@@ -11,7 +11,7 @@ document.getElementsByTagName("head")[0].appendChild(link);
 var link = document.createElement("link");
 link.type = "text/css";
 link.rel = "stylesheet";
-link.href ="https://cdn.jsdelivr.net/gh/habibullaharafat23/dordtspatriciershuis.nl@492ee33a379504fdc46809d9940aae5dbf79b447/style.css";
+link.href ="https://cdn.jsdelivr.net/gh/habibullaharafat23/dordtspatriciershuis.nl@b6792b9fa35c602540b79d192db21a5ec4114da9/style.css";
 //link.href = "style.css";
 document.getElementsByTagName("head")[0].appendChild(link);
 
