@@ -27,7 +27,7 @@ body {
 }
 
 .consent-headlines {
-  font-size: 15px !important;
+  font-size: clamp(14px, 2vw, 15px) !important;
   font-weight: 600;
   font-family: var(--font);
   cursor: pointer;
