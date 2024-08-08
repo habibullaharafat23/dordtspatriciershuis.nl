@@ -31,6 +31,7 @@ body {
   font-weight: 600;
   font-family: var(--font);
   cursor: pointer;
+  color: black !important;
 }
 
 .consent-descriptions {
